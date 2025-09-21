@@ -1,32 +1,32 @@
-# Project
+# Scheduler
 
-## Update 32
+Job scheduling and task runner
 
-This project includes various utilities and tools.
+## Features
 
-### Features
+- Core functionality implementation
+- Well-documented codebase
+- Easy to use API
+- Extensible architecture
 
-- Feature 32
-- Utility functions
-- Configuration management
-
-### Installation
+## Installation
 
 \`\`\`bash
 npm install
+# or
+pip install -r requirements.txt
 \`\`\`
 
-### Usage
+## Usage
 
 \`\`\`javascript
-const utils = require('./src/utils');
+const Scheduler = require('./src/index');
 \`\`\`
 
-### Changelog
+## Development
 
-- Update 32: Added new features and improvements
+This project is actively maintained and developed.
 
+## License
 
-## Update 47
-
-Added new features and improvements in update 47.
+MIT
